@@ -1,11 +1,13 @@
 # ctf-toolkits
 
 
-First run: python requirement.py
+
 
 git clone https://github.com/Dark4rmy/ctf-toolkits.git
 
-cd Dark4rmy
+cd ctf-toolkits/
+
+python requirement.py
 
 chmod +x dark-ctf-toolkits.py
 
